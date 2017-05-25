@@ -23,3 +23,28 @@ Kitematic(Optional)
 Git(Optional)
 
 
+After Installation when you will open Docker Quickstart Terminal 
+docker will create a image named "default" at C:\users\username\.docker\machine\machines\default..
+Creating VirtualBox VM
+Creating SSH key
+Creating the VM
+
+there also a note:
+To see how to connect your docker client to the Docker Engine running on this Virtual Machine 
+run C:\ProgramFiles\Docker ToolBox\docker-machine.exe env default
+
+The terminal runs a special bash environment instead of the standard Windows command prompt. The bash environment is required by Docker.
+
+
+default machine with IP 192.168.99.100
+
+
+
+
+
+
+
+
+
+
+
